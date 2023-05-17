@@ -1,5 +1,7 @@
 # Deep Learning Applications - HW1
 
+Coursework for the course Deep Learning Applications, taught in Term 3, at the Barcelona School of Economics.
+
 Authors: Catalina Odizzio and Agostina Pissinis
 
 Homework instructions:
