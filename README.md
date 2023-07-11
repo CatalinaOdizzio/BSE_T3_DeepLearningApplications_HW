@@ -1,10 +1,10 @@
-# Deep Learning Applications - HW1
+# Deep Learning Applications
 
 Coursework for the course Deep Learning Applications, taught in Term 3, at the Barcelona School of Economics.
 
 Authors: Catalina Odizzio and Agostina Pissinis
 
-Homework instructions:
+## Homework instructions:
 
 This practice session aims to extract automatically building footprints from aerial images of the state of Massachusetts. We want to approximate the function mapping input images to a binary prediction for each pixel (i.e. semantic segmentation) using the U-Net convolutional network architecture [(Ronneberger et al. 2015)](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28). For this assignment, the GPU implementation of TensorFlow is recommended, but students preferring PyTorch can use this framework instead.
 
